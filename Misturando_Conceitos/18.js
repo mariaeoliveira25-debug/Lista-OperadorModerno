@@ -1,0 +1,1 @@
+// O || mostra o  10 porque ele acha que 0 é um valor "falso" e o ignora e o ?? resulta em 0 porque ele aceita o 0 e só troca o valor se for null ou undefined.
